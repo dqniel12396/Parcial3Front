@@ -1,4 +1,4 @@
-/* Estilos para el formulario */
+
 form {
     display: flex;
     flex-direction: column;
@@ -34,13 +34,13 @@ form {
     background-color: #218838;
   }
   
-  /* Estilos para el mensaje de error */
+ 
   p {
     color: red;
     font-weight: bold;
   }
   
-  /* Estilos para el componente Card */
+
   .card {
     border: 1px solid #ccc;
     padding: 16px;

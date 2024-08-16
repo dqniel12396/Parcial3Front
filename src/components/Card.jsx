@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/styles.css'; // Importa el archivo de estilos para la tarjeta
+import '../styles/styles.css'; 
 
 const Card = ({ destino, actividad }) => {
   return (

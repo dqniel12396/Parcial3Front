@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Card from './Card';
-import '../styles/styles.css'; // Importa el archivo de estilos
+import '../styles/styles.css'; 
 
 const SugerenciaViajesForm = () => {
   const [destino, setDestino] = useState('');
